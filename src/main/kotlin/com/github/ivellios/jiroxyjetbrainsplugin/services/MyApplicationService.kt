@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.ivellios.jiroxyjetbrainsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.ivellios.jiroxyjetbrainsplugin.MyBundle
 
 class MyApplicationService {
 
